@@ -1,7 +1,7 @@
 name: notmag
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.5003743700217456
+typography_spectrum: 0.39827
 title: this is NOT magenta
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#a8a8a8'
   brandStrength: 0.4375
   lightness: 0.544871993130073
-  saturation: 0.1809950324241072
+  saturation: 0
   rhythmicContrast: 0.21196918585337698
 purpose: []
