@@ -1,0 +1,23 @@
+name: notmag
+favicon: null
+layout_spectrum: 0.3707390290219337
+typography_spectrum: 0.5003743700217456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.23751460597850382
+  lightness: 0.544871993130073
+  saturation: 0.1809950324241072
+  rhythmicContrast: 0.21196918585337698
+purpose: []
