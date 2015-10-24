@@ -2,6 +2,7 @@ name: notmag
 favicon: null
 layout_spectrum: 0.3707390290219337
 typography_spectrum: 0.5003743700217456
+title: this is NOT magenta
 cta:
   domain: null
   bucket: null
